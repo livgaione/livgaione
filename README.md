@@ -2,25 +2,52 @@
 <h1 align="center">Olá, sou a Lívia 👋</h1>
 <p align="center">Desenvolvedora Full‑Stack</p>
 
+
 <!-- 🛠️ Tecnologias e Ferramentas -->
 ### 🔧 Tecnologias e Ferramentas
 <p align="left">
+  <!-- Linguagens -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="Go" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
+
+  <!-- Frontend -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="40" height="40"/>
+
+  <!-- Backend -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" height="40"/>
+
+  <!-- Databases -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg" alt="Redis" width="40" height="40"/>
+
+  <!-- DevOps / Cloud -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="40" height="40" style="margin: 4px"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/>
+
+  <!-- Outros -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jest/jest-plain.svg" alt="Jest" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" alt="Figma" width="40" height="40"/>
 </p>
 
-<!-- 📊 GitHub Stats -->
-### 📈 Minhas estatísticas no GitHub
-![Liv Gaione's GitHub stats](https://github-readme-stats.vercel.app/api?username=livgaione&show_icons=true&theme=radical)
 
-<!-- 📝 Estatísticas de Linguagens -->
-### 📝 Linguagens mais usadas
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=livgaione&layout=compact&theme=radical)
+<!-- 📊 GitHub Stats lado a lado -->
+<table>
+  <tr>
+    <td>
+      <h3>📈 Minhas estatísticas no GitHub</h3>
+      <img src="https://github-readme-stats.vercel.app/api?username=livgaione&show_icons=true&theme=radical&hide_border=true&hide_title=true&count_private=true" width="450" />
+    </td>
+    <td>
+      <h3>📝 Linguagens mais usadas</h3>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=livgaione&layout=compact&theme=radical&hide_border=true&hide_title=true&count_private=true" width="450" />
+    </td>
+  </tr>
+</table>
 
 ### 📬 Entre em contato
 <p align="left">
