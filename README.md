@@ -35,20 +35,6 @@
 </p>
 
 
-<!-- 📊 GitHub Stats lado a lado -->
-<table>
-  <tr>
-    <td>
-      <h3>📈 Minhas estatísticas no GitHub</h3>
-      <img src="https://github-readme-stats.vercel.app/api?username=livgaione&show_icons=true&theme=radical&hide_border=true&hide_title=true&count_private=true" width="450" />
-    </td>
-    <td>
-      <h3>📝 Linguagens mais usadas</h3>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=livgaione&layout=compact&theme=radical&hide_border=true&hide_title=true&count_private=true" width="450" />
-    </td>
-  </tr>
-</table>
-
 ### 📬 Entre em contato
 <p align="left">
   <a href="https://www.linkedin.com/in/liviagaione/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
